@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Forntend Work.<br>🤝 I’m looking for help with a Project.<br>🌱 I’m currently learning FullStack.<br>💬 Ask me about anything<br>⚡ Fun fact: 6+9 !=69 <br>
+👯 I’m looking to collaborate on Frontend Work.<br>🤝 I’m looking for help with a Project.<br>🌱 I’m currently learning FullStack.<br>💬 Ask me about anything<br>⚡ Fun fact: 6+9 !=69 <br>
 
 
 ## 🌐 Socials:
